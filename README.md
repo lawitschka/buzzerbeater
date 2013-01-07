@@ -1,6 +1,6 @@
 # Buzzerbeater
 
-TODO: Write a gem description
+API Adapter for the world's largest basketball manager game Buzzerbeater.
 
 ## Installation
 

@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Buzzerbeater::VERSION
   gem.authors       = ["Moritz Lawitschka"]
   gem.email         = ["moritz@urbanvention.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Ruby Gem for the Buzzerbeater API.}
+  gem.summary       = %q{API Adapter for the world's largest basketball manager game Buzzerbeater.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
