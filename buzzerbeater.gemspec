@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Moritz Lawitschka"]
   gem.email         = ["moritz@urbanvention.com"]
   gem.description   = %q{Ruby Gem for the Buzzerbeater API.}
-  gem.summary       = %q{API Adapter for the world's largest basketball manager game Buzzerbeater.}
+  gem.summary       = %q{API adapter for the world's largest basketball manager game Buzzerbeater.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)

@@ -1,6 +1,6 @@
 # Buzzerbeater
 
-API Adapter for the world's largest basketball manager game Buzzerbeater.
+API adapter for the world's largest basketball manager game Buzzerbeater.
 
 ## Installation
 
