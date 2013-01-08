@@ -21,4 +21,6 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'guard'
   gem.add_development_dependency 'guard-rspec'
   gem.add_development_dependency 'rb-fsevent'
+
+  gem.add_runtime_dependency 'httparty', '~> 0.9.0'
 end
