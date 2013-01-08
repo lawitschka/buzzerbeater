@@ -1,3 +1,4 @@
+require "buzzerbeater/api"
 require "buzzerbeater/version"
 
 module Buzzerbeater
