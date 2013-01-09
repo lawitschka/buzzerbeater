@@ -17,10 +17,12 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
-  gem.add_development_dependency 'rspec'
-  gem.add_development_dependency 'guard'
-  gem.add_development_dependency 'guard-rspec'
-  gem.add_development_dependency 'rb-fsevent'
+  gem.add_development_dependency 'rspec',       '~> 2.12.0'
+  gem.add_development_dependency 'guard',       '~> 1.6.1'
+  gem.add_development_dependency 'guard-rspec', '~> 2.3.3'
+  gem.add_development_dependency 'rb-fsevent',  '~> 0.9.3'
+  gem.add_development_dependency 'fakeweb',     '~> 1.3.0'
 
-  gem.add_runtime_dependency 'httparty', '~> 0.9.0'
+  gem.add_runtime_dependency 'activesupport', '~> 3.2.11'
+  gem.add_runtime_dependency 'httparty',      '~> 0.9.0'
 end
