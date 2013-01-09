@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Mon, 01 Aug 2011 23:24:21 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 114
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <error message='BoxscoreNotAvailable'/>
+</bbapi>

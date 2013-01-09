@@ -1,0 +1,323 @@
+HTTP/1.1 200 OK
+Date: Mon, 01 Aug 2011 09:59:55 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 12109
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='16' retrieved='2011-08-01T09:59:55Z'>
+        <league id='5' level='2'>II.4</league>
+        <country id='1'>USA</country>
+        <regularSeason>
+            <conference>
+                <team id='28558'>
+                    <teamName>Walker Wiggles</teamName>
+                    <wins>19</wins>
+                    <losses>3</losses>
+                    <pf>1972</pf>
+                    <pa>1639</pa>
+                </team><team id='29402'>
+                    <teamName>LA Athletics</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>2094</pf>
+                    <pa>1530</pa>
+                </team><team id='23003'>
+                    <teamName>I&#37;ll Replace You With Machines</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2097</pf>
+                    <pa>1772</pa>
+                </team><team id='23430'>
+                    <teamName>Slashing Dragons</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2046</pf>
+                    <pa>1817</pa>
+                </team><team id='23407'>
+                    <teamName>In your face</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2001</pf>
+                    <pa>1779</pa>
+                </team><team id='23381'>
+                    <teamName>Imperial Phantoms</teamName>
+                    <wins>7</wins>
+                    <losses>15</losses>
+                    <pf>2013</pf>
+                    <pa>1783</pa>
+                </team><team id='28779'>
+                    <teamName>Knicktardeder</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1831</pf>
+                    <pa>1863</pa>
+                </team><team id='22795'>
+                    <teamName>Wake Forest</teamName>
+                    <wins>2</wins>
+                    <losses>20</losses>
+                    <pf>988</pf>
+                    <pa>2538</pa>
+                </team>
+            </conference>
+            <conference>
+                <team id='24118'>
+                    <teamName>Dog River Riverdogs</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>2068</pf>
+                    <pa>1589</pa>
+                </team><team id='23888'>
+                    <teamName>Technical Fouls</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>2124</pf>
+                    <pa>1650</pa>
+                </team><team id='23542'>
+                    <teamName>DC Dribble Penetrators</teamName>
+                    <wins>16</wins>
+                    <losses>6</losses>
+                    <pf>2165</pf>
+                    <pa>1596</pa>
+                </team><team id='28510'>
+                    <teamName>Bullish Mentality</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2032</pf>
+                    <pa>1604</pa>
+                </team><team id='28378'>
+                    <teamName>10inch Vertical</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2040</pf>
+                    <pa>1810</pa>
+                </team><team id='23219'>
+                    <teamName>Bruno&#37;s Fighting Grizzlies</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2113</pf>
+                    <pa>1985</pa>
+                </team><team id='22865'>
+                    <teamName>Grim Koalas</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1262</pf>
+                    <pa>1975</pa>
+                </team><team id='29230'>
+                    <teamName>Dong Energy</teamName>
+                    <wins>0</wins>
+                    <losses>22</losses>
+                    <pf>709</pf>
+                    <pa>2625</pa>
+                </team>
+            </conference>
+        </regularSeason>
+
+        <playoffs>
+
+            <quarterfinals>
+
+                <match id='35876992' start='2011-07-13T00:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='23430'>
+                        <teamName>Slashing Dragons</teamName>
+<score>90</score>
+                    </awayTeam>
+                    <homeTeam id='28558'>
+                        <teamName>Walker Wiggles</teamName>
+<score>102</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35876993' start='2011-07-13T00:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='23003'>
+                        <teamName>I&#37;ll Replace You With Machines</teamName>
+<score>90</score>
+                    </awayTeam>
+                    <homeTeam id='29402'>
+                        <teamName>LA Athletics</teamName>
+<score>94</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35876994' start='2011-07-13T00:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='28510'>
+                        <teamName>Bullish Mentality</teamName>
+<score>82</score>
+                    </awayTeam>
+                    <homeTeam id='24118'>
+                        <teamName>Dog River Riverdogs</teamName>
+<score>71</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35876995' start='2011-07-13T00:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='23542'>
+                        <teamName>DC Dribble Penetrators</teamName>
+<score>108</score>
+                    </awayTeam>
+                    <homeTeam id='23888'>
+                        <teamName>Technical Fouls</teamName>
+<score>109</score>
+                    </homeTeam>
+                </match>
+
+            </quarterfinals>
+
+            <semifinals>
+
+                <match id='35974389' start='2011-07-17T00:00:00Z' type='league.semifinal'>
+                    <awayTeam id='29402'>
+                        <teamName>LA Athletics</teamName>
+<score>80</score>
+                    </awayTeam>
+                    <homeTeam id='28558'>
+                        <teamName>Walker Wiggles</teamName>
+<score>108</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35974390' start='2011-07-17T00:00:00Z' type='league.semifinal'>
+                    <awayTeam id='28510'>
+                        <teamName>Bullish Mentality</teamName>
+<score>85</score>
+                    </awayTeam>
+                    <homeTeam id='23888'>
+                        <teamName>Technical Fouls</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+
+            </semifinals>
+
+            <finals>
+
+                <match id='36125424' start='2011-07-20T00:00:00Z' type='league.final'>
+                    <awayTeam id='23888'>
+                        <teamName>Technical Fouls</teamName>
+<score>82</score>
+                    </awayTeam>
+                    <homeTeam id='28558'>
+                        <teamName>Walker Wiggles</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+
+                <match id='36125425' start='2011-07-24T00:00:00Z' type='league.final'>
+                    <awayTeam id='28558'>
+                        <teamName>Walker Wiggles</teamName>
+<score>80</score>
+                    </awayTeam>
+                    <homeTeam id='23888'>
+                        <teamName>Technical Fouls</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+
+                <match id='36125426' start='2011-07-25T00:00:00Z' type='league.final'>
+                    <awayTeam id='23888'>
+                        <teamName>Technical Fouls</teamName>
+<score>85</score>
+                    </awayTeam>
+                    <homeTeam id='28558'>
+                        <teamName>Walker Wiggles</teamName>
+<score>97</score>
+                    </homeTeam>
+                </match>
+
+            </finals>
+
+        </playoffs>
+
+
+        <relegation>
+
+                <match id='35876996' start='2011-07-13T00:00:00Z' type='league.relegation'>
+                    <awayTeam id='22865'>
+                        <teamName>Grim Koalas</teamName>
+<score>83</score>
+                    </awayTeam>
+                    <homeTeam id='23381'>
+                        <teamName>Imperial Phantoms</teamName>
+<score>102</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35876999' start='2011-07-13T00:00:00Z' type='league.relegation'>
+                    <awayTeam id='28779'>
+                        <teamName>Knicktardeder</teamName>
+<score>77</score>
+                    </awayTeam>
+                    <homeTeam id='23219'>
+                        <teamName>Bruno&#37;s Fighting Grizzlies</teamName>
+<score>89</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35876997' start='2011-07-17T00:00:00Z' type='league.relegation'>
+                    <awayTeam id='23381'>
+                        <teamName>Imperial Phantoms</teamName>
+<score>106</score>
+                    </awayTeam>
+                    <homeTeam id='22865'>
+                        <teamName>Grim Koalas</teamName>
+<score>114</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35877000' start='2011-07-17T00:00:00Z' type='league.relegation'>
+                    <awayTeam id='23219'>
+                        <teamName>Bruno&#37;s Fighting Grizzlies</teamName>
+<score>59</score>
+                    </awayTeam>
+                    <homeTeam id='28779'>
+                        <teamName>Knicktardeder</teamName>
+<score>114</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35876998' start='2011-07-20T00:00:00Z' type='league.relegation'>
+                    <awayTeam id='22865'>
+                        <teamName>Grim Koalas</teamName>
+<score>103</score>
+                    </awayTeam>
+                    <homeTeam id='23381'>
+                        <teamName>Imperial Phantoms</teamName>
+<score>112</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35877001' start='2011-07-20T00:00:00Z' type='league.relegation'>
+                    <awayTeam id='28779'>
+                        <teamName>Knicktardeder</teamName>
+<score>115</score>
+                    </awayTeam>
+                    <homeTeam id='23219'>
+                        <teamName>Bruno&#37;s Fighting Grizzlies</teamName>
+<score>110</score>
+                    </homeTeam>
+                </match>
+
+        </relegation>
+
+
+        <finalResults>
+            <winner id='28558'>Walker Wiggles</winner>
+
+            <relegated id='22795'>Wake Forest</relegated>
+
+            <relegated id='22865'>Grim Koalas</relegated>
+
+            <relegated id='23219'>Bruno&#37;s Fighting Grizzlies</relegated>
+
+            <relegated id='29230'>Dong Energy</relegated>
+
+        </finalResults>
+
+    </standings>
+</bbapi>

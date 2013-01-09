@@ -1,0 +1,312 @@
+HTTP/1.1 200 OK
+Date: Wed, 27 Jul 2011 18:44:31 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 11566
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='16' retrieved='2011-07-27T18:44:31Z'>
+        <league id='225' level='3'>III.9</league>
+        <country id='8'>Deutschland</country>
+        <regularSeason>
+            <conference>
+                <team id='34218'>
+                    <teamName>TSV heuldoch</teamName>
+                    <wins>19</wins>
+                    <losses>3</losses>
+                    <pf>2364</pf>
+                    <pa>1925</pa>
+                </team><team id='34251'>
+                    <teamName>Board Room 2.0</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2094</pf>
+                    <pa>1555</pa>
+                </team><team id='26279'>
+                    <teamName>Kiel Bonobos</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>2089</pf>
+                    <pa>1649</pa>
+                </team><team id='34346'>
+                    <teamName>Hannover Shadows</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2391</pf>
+                    <pa>2297</pa>
+                </team><team id='34593'>
+                    <teamName>Leopards On Ice</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2088</pf>
+                    <pa>2025</pa>
+                </team><team id='34263'>
+                    <teamName>Dunking Chemnitz</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1712</pf>
+                    <pa>1694</pa>
+                </team><team id='34685'>
+                    <teamName>Scholli Knights</teamName>
+                    <wins>7</wins>
+                    <losses>15</losses>
+                    <pf>2023</pf>
+                    <pa>2105</pa>
+                </team><team id='34179'>
+                    <teamName>Rakete Schnellhausen</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>2001</pf>
+                    <pa>2092</pa>
+                </team>
+            </conference>
+            <conference>
+                <team id='34309'>
+                    <teamName>ATV Huckarde</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2401</pf>
+                    <pa>1813</pa>
+                </team><team id='34180'>
+                    <teamName>Barmbek Lubricants</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2132</pf>
+                    <pa>1867</pa>
+                </team><team id='34885'>
+                    <teamName>BV Dahlen Bulls</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2065</pf>
+                    <pa>1960</pa>
+                </team><team id='34606'>
+                    <teamName>oonis</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2033</pf>
+                    <pa>2046</pa>
+                </team><team id='34760'>
+                    <teamName>BSG OstPower</teamName>
+                    <wins>7</wins>
+                    <losses>15</losses>
+                    <pf>1823</pf>
+                    <pa>2043</pa>
+                </team><team id='34577'>
+                    <teamName>Parkeridad Agutis</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1859</pf>
+                    <pa>2153</pa>
+                </team><team id='34189'>
+                    <teamName>Bochum Beerdrinkers</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1719</pf>
+                    <pa>2196</pa>
+                </team><team id='34941'>
+                    <teamName>Ruchheim Baskets</teamName>
+                    <wins>0</wins>
+                    <losses>22</losses>
+                    <pf>1047</pf>
+                    <pa>2421</pa>
+                </team>
+            </conference>
+        </regularSeason>
+
+        <playoffs>
+
+            <quarterfinals>
+
+                <match id='35820736' start='2011-07-12T17:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='34346'>
+                        <teamName>Hannover Shadows</teamName>
+                        <score>121</score>
+                    </awayTeam>
+                    <homeTeam id='34218'>
+                        <teamName>TSV heuldoch</teamName>
+                        <score>130</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35820737' start='2011-07-12T17:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='26279'>
+                        <teamName>Kiel Bonobos</teamName>
+                        <score>0</score>
+                    </awayTeam>
+                    <homeTeam id='34251'>
+                        <teamName>Board Room 2.0</teamName>
+                        <score>25</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35820738' start='2011-07-12T17:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='34606'>
+                        <teamName>oonis</teamName>
+                        <score>101</score>
+                    </awayTeam>
+                    <homeTeam id='34309'>
+                        <teamName>ATV Huckarde</teamName>
+                        <score>129</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35820739' start='2011-07-12T17:00:00Z' type='league.quarterfinal'>
+                    <awayTeam id='34885'>
+                        <teamName>BV Dahlen Bulls</teamName>
+                        <score>84</score>
+                    </awayTeam>
+                    <homeTeam id='34180'>
+                        <teamName>Barmbek Lubricants</teamName>
+                        <score>113</score>
+                    </homeTeam>
+                </match>
+
+            </quarterfinals>
+
+            <semifinals>
+
+                <match id='35941149' start='2011-07-16T17:00:00Z' type='league.semifinal'>
+                    <awayTeam id='34251'>
+                        <teamName>Board Room 2.0</teamName>
+                        <score>109</score>
+                    </awayTeam>
+                    <homeTeam id='34218'>
+                        <teamName>TSV heuldoch</teamName>
+                        <score>114</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35941150' start='2011-07-16T17:00:00Z' type='league.semifinal'>
+                    <awayTeam id='34180'>
+                        <teamName>Barmbek Lubricants</teamName>
+                        <score>85</score>
+                    </awayTeam>
+                    <homeTeam id='34309'>
+                        <teamName>ATV Huckarde</teamName>
+                        <score>97</score>
+                    </homeTeam>
+                </match>
+
+            </semifinals>
+
+            <finals>
+
+                <match id='36069916' start='2011-07-19T17:00:00Z' type='league.final'>
+                    <awayTeam id='34309'>
+                        <teamName>ATV Huckarde</teamName>
+                        <score>126</score>
+                    </awayTeam>
+                    <homeTeam id='34218'>
+                        <teamName>TSV heuldoch</teamName>
+                        <score>103</score>
+                    </homeTeam>
+                </match>
+
+                <match id='36069917' start='2011-07-23T17:00:00Z' type='league.final'>
+                    <awayTeam id='34218'>
+                        <teamName>TSV heuldoch</teamName>
+                        <score>117</score>
+                    </awayTeam>
+                    <homeTeam id='34309'>
+                        <teamName>ATV Huckarde</teamName>
+                        <score>108</score>
+                    </homeTeam>
+                </match>
+
+                <match id='36069918' start='2011-07-24T17:00:00Z' type='league.final'>
+                    <awayTeam id='34309'>
+                        <teamName>ATV Huckarde</teamName>
+                        <score>101</score>
+                    </awayTeam>
+                    <homeTeam id='34218'>
+                        <teamName>TSV heuldoch</teamName>
+                        <score>123</score>
+                    </homeTeam>
+                </match>
+
+            </finals>
+
+        </playoffs>
+
+
+        <relegation>
+
+                <match id='35820740' start='2011-07-12T17:00:00Z' type='league.relegation'>
+                    <awayTeam id='34189'>
+                        <teamName>Bochum Beerdrinkers</teamName>
+                        <score>41</score>
+                    </awayTeam>
+                    <homeTeam id='34263'>
+                        <teamName>Dunking Chemnitz</teamName>
+                        <score>87</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35820743' start='2011-07-12T17:00:00Z' type='league.relegation'>
+                    <awayTeam id='34685'>
+                        <teamName>Scholli Knights</teamName>
+                        <score>95</score>
+                    </awayTeam>
+                    <homeTeam id='34577'>
+                        <teamName>Parkeridad Agutis</teamName>
+                        <score>70</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35820741' start='2011-07-16T17:00:00Z' type='league.relegation'>
+                    <awayTeam id='34263'>
+                        <teamName>Dunking Chemnitz</teamName>
+                        <score>69</score>
+                    </awayTeam>
+                    <homeTeam id='34189'>
+                        <teamName>Bochum Beerdrinkers</teamName>
+                        <score>104</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35820744' start='2011-07-16T17:00:00Z' type='league.relegation'>
+                    <awayTeam id='34577'>
+                        <teamName>Parkeridad Agutis</teamName>
+                        <score>91</score>
+                    </awayTeam>
+                    <homeTeam id='34685'>
+                        <teamName>Scholli Knights</teamName>
+                        <score>106</score>
+                    </homeTeam>
+                </match>
+
+                <match id='35820742' start='2011-07-19T17:00:00Z' type='league.relegation'>
+                    <awayTeam id='34189'>
+                        <teamName>Bochum Beerdrinkers</teamName>
+                        <score>65</score>
+                    </awayTeam>
+                    <homeTeam id='34263'>
+                        <teamName>Dunking Chemnitz</teamName>
+                        <score>108</score>
+                    </homeTeam>
+                </match>
+
+        </relegation>
+
+
+        <finalResults>
+            <winner id='34218'>TSV heuldoch</winner>
+
+            <relegated id='34189'>Bochum Beerdrinkers</relegated>
+
+            <relegated id='34577'>Parkeridad Agutis</relegated>
+
+            <relegated id='34179'>Rakete Schnellhausen</relegated>
+
+            <relegated id='34941'>Ruchheim Baskets</relegated>
+
+        </finalResults>
+
+    </standings>
+</bbapi>

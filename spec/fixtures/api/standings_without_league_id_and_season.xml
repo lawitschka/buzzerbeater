@@ -1,0 +1,125 @@
+HTTP/1.1 200 OK
+Date: Wed, 27 Jul 2011 17:01:52 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 4288
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='17' retrieved='2011-07-27T17:01:52Z'>
+        <league id='225' level='3'>III.9</league>
+        <country id='8'>Deutschland</country>
+        <regularSeason>
+            <conference>
+                <team id='34251'>
+                    <teamName>Board Room 2.0</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34263'>
+                    <teamName>Dunking Chemnitz</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34346'>
+                    <teamName>Hannover Shadows</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='26279'>
+                    <teamName>Kiel Bonobos</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34262'>
+                    <teamName>Korydallos.B.C</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34593'>
+                    <teamName>Leopards On Ice</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34484'>
+                    <teamName>Poptown Bulls</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34685'>
+                    <teamName>Scholli Knights</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team>
+            </conference>
+            <conference>
+                <team id='34309'>
+                    <teamName>ATV Huckarde</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34180'>
+                    <teamName>Barmbek Lubricants</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34967'>
+                    <teamName>Berlin Dukes</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34760'>
+                    <teamName>BSG OstPower</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34885'>
+                    <teamName>BV Dahlen Bulls</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34247'>
+                    <teamName>Eller Assassins</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='34606'>
+                    <teamName>oonis</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='35020'>
+                    <teamName>RedStars Kalbe</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team>
+            </conference>
+        </regularSeason>
+
+
+
+    </standings>
+</bbapi>

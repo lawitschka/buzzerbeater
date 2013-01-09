@@ -1,0 +1,467 @@
+HTTP/1.1 200 OK
+Date: Mon, 01 Aug 2011 20:10:29 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 15050
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='34967' season='16' retrieved='2011-08-01T20:10:29Z'>
+        <match id='32836675' start='2011-04-21T17:00:00Z' type='friendly'>
+            <awayTeam id='26207'>
+                <teamName>Die Kieler</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010341' start='2011-04-23T17:00:00Z' type='league.rs'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='34260'>
+                <teamName>SV Werder Bremen</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010348' start='2011-04-26T17:00:00Z' type='league.rs'>
+            <awayTeam id='34750'>
+                <teamName>diar251</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='32905962' start='2011-04-28T17:00:00Z' type='cup'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='34848'>
+                <teamName>Da Real Deal</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010355' start='2011-04-30T17:00:00Z' type='league.rs'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='34962'>
+                <teamName>Südstadt Panther Cologne</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010366' start='2011-05-03T17:00:00Z' type='league.rs'>
+            <awayTeam id='34742'>
+                <teamName>Erkner Baskets</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35572344' start='2011-05-05T17:00:00Z' type='cup'>
+            <awayTeam id='34166'>
+                <teamName>Essen Eagles</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010373' start='2011-05-07T17:00:00Z' type='league.rs.tv'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='26261'>
+                <teamName>J-Town Titans</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010382' start='2011-05-10T17:00:00Z' type='league.rs'>
+            <awayTeam id='34678'>
+                <teamName>Beach Boys</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35604046' start='2011-05-12T17:00:00Z' type='cup'>
+            <awayTeam id='26321'>
+                <teamName>Isen Galaxys</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010390' start='2011-05-14T17:00:00Z' type='league.rs'>
+            <awayTeam id='34875'>
+                <teamName>Baskets Rhein-Köln</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>25</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010401' start='2011-05-17T17:00:00Z' type='league.rs'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='34743'>
+                <teamName>Potsdam Lonestars</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35630066' start='2011-05-19T22:00:00Z' type='friendly'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='24400'>
+                <teamName>Atenas de Cordoba</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010409' start='2011-05-21T17:00:00Z' type='league.rs'>
+            <awayTeam id='34745'>
+                <teamName>They Got Game</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010417' start='2011-05-24T17:00:00Z' type='league.rs'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='34737'>
+                <teamName>BCP PADERBORN</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35646011' start='2011-05-26T16:30:00Z' type='friendly'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='118063'>
+                <teamName>K.B.Kosova</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010425' start='2011-05-28T17:00:00Z' type='league.rs'>
+            <awayTeam id='34747'>
+                <teamName>Dragons Bremerhaven</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010433' start='2011-05-31T17:00:00Z' type='league.rs'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='34741'>
+                <teamName>BG Dorsten</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35659960' start='2011-06-02T17:00:00Z' type='friendly'>
+            <awayTeam id='96108'>
+                <teamName>Los Pichangas</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010441' start='2011-06-04T17:00:00Z' type='league.rs'>
+            <awayTeam id='34749'>
+                <teamName>Oppi</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1014000225' start='2011-06-08T17:00:00Z' type='unknown'>
+            <awayTeam id='225'>
+                <teamName>Great 8</teamName>
+<score>171</score>
+            </awayTeam>
+            <homeTeam id='225'>
+                <teamName>Big 8</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35672366' start='2011-06-09T15:55:00Z' type='friendly'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='46859'>
+                <teamName>SPACATABEE</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010449' start='2011-06-11T17:00:00Z' type='league.rs.tv'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='34739'>
+                <teamName>Bantastic41</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010457' start='2011-06-14T17:00:00Z' type='league.rs'>
+            <awayTeam id='34527'>
+                <teamName>Sürmene Basket</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>149</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35684900' start='2011-06-16T16:35:00Z' type='friendly'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='164189'>
+                <teamName>BC NASTY WWA</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010461' start='2011-06-18T17:00:00Z' type='league.rs'>
+            <awayTeam id='34260'>
+                <teamName>Cambodunum Crauts</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010468' start='2011-06-21T17:00:00Z' type='league.rs'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='34750'>
+                <teamName>Aws0m3 Sh!tzz</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35699723' start='2011-06-23T17:30:00Z' type='friendly'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='35608'>
+                <teamName>Team Nantes</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010475' start='2011-06-25T17:00:00Z' type='league.rs'>
+            <awayTeam id='34962'>
+                <teamName>Südstadt Panther Cologne</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010486' start='2011-06-28T17:00:00Z' type='league.rs'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='34742'>
+                <teamName>Erkner Baskets</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35712063' start='2011-06-30T17:00:00Z' type='friendly'>
+            <awayTeam id='34587'>
+                <teamName>Dream Team Wednesday Berlin</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010493' start='2011-07-02T17:00:00Z' type='league.rs.tv'>
+            <awayTeam id='26261'>
+                <teamName>J-Town Titans</teamName>
+<score>138</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010502' start='2011-07-05T17:00:00Z' type='league.rs'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>141</score>
+            </awayTeam>
+            <homeTeam id='34678'>
+                <teamName>ShootTroop</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35720101' start='2011-07-07T15:55:00Z' type='friendly'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='48755'>
+                <teamName>superocco</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='33010510' start='2011-07-09T17:00:00Z' type='league.rs'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>137</score>
+            </awayTeam>
+            <homeTeam id='34875'>
+                <teamName>Hamburg Skyflyers</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35821200' start='2011-07-12T17:00:00Z' type='league.quarterfinal'>
+            <awayTeam id='34742'>
+                <teamName>Erkner Baskets</teamName>
+<score>141</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>146</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35733020' start='2011-07-14T18:00:00Z' type='friendly'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='139787'>
+                <teamName>Vales Basket</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35941415' start='2011-07-16T17:00:00Z' type='league.semifinal'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='26261'>
+                <teamName>J-Town Titans</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='36070360' start='2011-07-19T17:00:00Z' type='league.final'>
+            <awayTeam id='34745'>
+                <teamName>They Got Game</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='35981693' start='2011-07-21T16:35:00Z' type='friendly'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56267'>
+                <teamName>Vaderios AC</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='36070361' start='2011-07-23T17:00:00Z' type='league.final'>
+            <awayTeam id='34967'>
+                <teamName>Berlin Dukes</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='34745'>
+                <teamName>They Got Game</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

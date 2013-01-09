@@ -1,0 +1,102 @@
+HTTP/1.1 200 OK
+Date: Wed, 27 Jul 2011 15:24:41 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 2745
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <seasons retrieved='2011-07-27T15:24:41Z'>
+
+        <season id='1'>
+            <start>2007-04-02T03:23:29Z</start>
+            <finish>2007-07-18T03:49:59Z</finish>
+        </season>
+
+        <season id='2'>
+            <start>2007-07-18T03:49:59Z</start>
+            <finish>2007-10-22T20:57:39Z</finish>
+        </season>
+
+        <season id='3'>
+            <start>2007-10-22T20:57:39Z</start>
+            <finish>2008-01-29T13:26:18Z</finish>
+        </season>
+
+        <season id='4'>
+            <start>2008-01-29T13:26:18Z</start>
+            <finish>2008-05-06T01:27:45Z</finish>
+        </season>
+
+        <season id='5'>
+            <start>2008-05-06T01:27:45Z</start>
+            <finish>2008-08-11T19:38:54Z</finish>
+        </season>
+
+        <season id='6'>
+            <start>2008-08-11T19:38:54Z</start>
+            <finish>2008-11-17T19:25:15Z</finish>
+        </season>
+
+        <season id='7'>
+            <start>2008-11-17T19:25:15Z</start>
+            <finish>2009-02-23T20:02:57Z</finish>
+        </season>
+
+        <season id='8'>
+            <start>2009-02-23T20:02:57Z</start>
+            <finish>2009-06-01T18:37:59Z</finish>
+        </season>
+
+        <season id='9'>
+            <start>2009-06-01T18:37:59Z</start>
+            <finish>2009-09-07T20:11:42Z</finish>
+        </season>
+
+        <season id='10'>
+            <start>2009-09-07T20:11:42Z</start>
+            <finish>2009-12-14T21:57:52Z</finish>
+        </season>
+
+        <season id='11'>
+            <start>2009-12-14T21:57:52Z</start>
+            <finish>2010-03-22T18:54:59Z</finish>
+        </season>
+
+        <season id='12'>
+            <start>2010-03-22T18:54:59Z</start>
+            <finish>2010-06-28T18:08:09Z</finish>
+        </season>
+
+        <season id='13'>
+            <start>2010-06-28T18:08:09Z</start>
+            <finish>2010-10-06T03:43:03Z</finish>
+        </season>
+
+        <season id='14'>
+            <start>2010-10-06T03:43:03Z</start>
+            <finish>2011-01-11T02:16:35Z</finish>
+        </season>
+
+        <season id='15'>
+            <start>2011-01-11T02:16:35Z</start>
+            <finish>2011-04-18T21:14:33Z</finish>
+        </season>
+
+        <season id='16'>
+            <start>2011-04-18T21:14:33Z</start>
+            <finish>2011-07-25T12:51:24Z</finish>
+        </season>
+
+        <season id='17'>
+            <start>2011-07-25T12:51:24Z</start>
+            <inProgress/>
+        </season>
+
+    </seasons>
+</bbapi>

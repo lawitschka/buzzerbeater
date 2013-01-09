@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Date: Mon, 30 May 2011 18:23:07 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 426
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <team id='12345' retrieved='2011-05-30T18:23:07Z'>
+        <teamName>Cambodunum Crauts</teamName>
+        <shortName>CAM</shortName>
+        
+        <owner >other_user</owner>
+        <createDate>2011-05-15T15:07:00Z</createDate>
+        
+        <league id='737' level='4'>IV.37</league>
+        <country id='8'>Deutschland</country>
+    </team>
+</bbapi>

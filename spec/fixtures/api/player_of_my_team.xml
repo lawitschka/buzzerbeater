@@ -1,0 +1,46 @@
+HTTP/1.1 200 OK
+Date: Tue, 07 Jun 2011 17:27:00 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Set-Cookie: .ASPXAUTH=ECD23EC5B1B5D511886B64C9ADC59A84FDABA30E3927AB5757ADCBFD17C5E15F3C83A00137A8451A7C3EA6A5EE06BB390D76B5FDCBC35E3DB23141447358E8EB943A2FAFFCE1346B55B41B9C781575E38008A4B2E9F0E0E769F94DDA0BBCFAD8E3EBC2AB22059DC2E79E416B4CA4DAE621892144; path=/; HttpOnly
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 1092
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <player id='14526287' owner='11111' retrieved='2011-06-07T17:27:00Z'>
+        <firstName>Swen</firstName>
+        <lastName>Englschalking</lastName>
+        <nationality id='8'>Deutschland</nationality>
+        <age>25</age>
+        <height>81</height>
+        <dmi>84300</dmi>
+
+        <jersey>52</jersey>
+        <salary>6900</salary>
+        <bestPosition>PF</bestPosition>
+        <skills>
+            <gameShape>9</gameShape>
+            <potential>9</potential>
+
+            <jumpShot>9</jumpShot>
+            <range>9</range>
+            <outsideDef>9</outsideDef>
+            <handling>9</handling>
+            <driving>9</driving>
+            <passing>9</passing>
+            <insideShot pop='+1'>9</insideShot>
+            <insideDef>9</insideDef>
+            <rebound>9</rebound>
+            <block>9</block>
+            <stamina pop="-1">9</stamina>
+            <freeThrow>9</freeThrow>
+            <experience>9</experience>
+
+        </skills>
+    </player>
+</bbapi>

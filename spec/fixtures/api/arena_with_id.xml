@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Date: Sat, 04 Jun 2011 20:59:29 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 482
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <arena teamid='12345' retrieved='2011-06-04T20:59:29Z'>
+        <name>Other_user's Arena</name>
+        <seats>
+            <bleachers price='10' nextPrice='10'>4600</bleachers>
+            <lowerTier price='35' nextPrice='35'>450</lowerTier>
+            <courtside price='100' nextPrice='100'>50</courtside>
+            <luxury price='800' nextPrice='800'>5</luxury>
+        </seats>
+
+    </arena>
+</bbapi>

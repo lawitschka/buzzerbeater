@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Length: 105
+Content-Type: text/xml
+Last-Modified: Mon, 16 Jun 2008 10:04:28 GMT
+Accept-Ranges: bytes
+ETag: "3854255d98cfc81:9d8"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Sun, 31 Jul 2011 16:43:43 GMT
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <error message='ServerError'/>
+</bbapi>

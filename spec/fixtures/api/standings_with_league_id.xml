@@ -1,0 +1,125 @@
+HTTP/1.1 200 OK
+Date: Wed, 27 Jul 2011 18:43:26 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 4321
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='17' retrieved='2011-07-27T18:43:26Z'>
+        <league id='5' level='2'>II.4</league>
+        <country id='1'>USA</country>
+        <regularSeason>
+            <conference>
+                <team id='23826'>
+                    <teamName>Dei Ex Machina</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='23082'>
+                    <teamName>Ice Storm BC</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='23003'>
+                    <teamName>I&#37;ll Replace You With Machines</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='23381'>
+                    <teamName>Imperial Phantoms</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='23407'>
+                    <teamName>In your face</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='28779'>
+                    <teamName>Knicktardeder</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='23430'>
+                    <teamName>Slashing Dragons</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='23172'>
+                    <teamName>USA Elite</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team>
+            </conference>
+            <conference>
+                <team id='28378'>
+                    <teamName>10inch Vertical</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='28510'>
+                    <teamName>Bullish Mentality</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='23542'>
+                    <teamName>DC Dribble Penetrators</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='24118'>
+                    <teamName>Dog River Riverdogs</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='31240'>
+                    <teamName>Eugene Register-Guard</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='31231'>
+                    <teamName>Italian Roosters</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='23888'>
+                    <teamName>Technical Fouls</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team><team id='30090'>
+                    <teamName>The Rebels</teamName>
+                    <wins>0</wins>
+                    <losses>0</losses>
+                    <pf>0</pf>
+                    <pa>0</pa>
+                </team>
+            </conference>
+        </regularSeason>
+
+
+
+    </standings>
+</bbapi>

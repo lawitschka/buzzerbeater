@@ -1,0 +1,419 @@
+HTTP/1.1 200 OK
+Date: Tue, 07 Jun 2011 17:21:33 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 14235
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <roster teamid='11111' retrieved='2011-06-07T17:21:33Z'>
+        <player id='14526287'>
+            <firstName>Swen</firstName>
+            <lastName>Englschalking</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>25</age>
+            <height>81</height>
+            <dmi>84300</dmi>
+            
+            <jersey>52</jersey>
+            <salary>6900</salary>
+            <bestPosition>PF</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='14526289'>
+            <firstName>Arbogast</firstName>
+            <lastName>von Rekowski</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>23</age>
+            <height>81</height>
+            <dmi>64600</dmi>
+            
+            <jersey>55</jersey>
+            <salary>8247</salary>
+            <bestPosition>C</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='5795217'>
+            <firstName>Lorenzo</firstName>
+            <lastName>Pagnoncelli</lastName>
+            <nationality id='10'>Italia</nationality>
+            <age>28</age>
+            <height>82</height>
+            <dmi>178100</dmi>
+            
+            
+            <salary>13115</salary>
+            <bestPosition>C</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='10625557'>
+            <firstName>Juquinha</firstName>
+            <lastName>Guamá</lastName>
+            <nationality id='3'>Brasil</nationality>
+            <age>25</age>
+            <height>76</height>
+            <dmi>125600</dmi>
+            
+            
+            <salary>9673</salary>
+            <bestPosition>PG</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='12150006'>
+            <firstName>Mei</firstName>
+            <lastName>Weiliang</lastName>
+            <nationality id='45'>Hong Kong</nationality>
+            <age>24</age>
+            <height>81</height>
+            <dmi>110800</dmi>
+            
+            
+            <salary>9224</salary>
+            <bestPosition>PG</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='12173875'>
+            <firstName>Dashurim</firstName>
+            <lastName>Vavla</lastName>
+            <nationality id='49'>Makedonija</nationality>
+            <age>24</age>
+            <height>75</height>
+            <dmi>108700</dmi>
+            
+            
+            <salary>8719</salary>
+            <bestPosition>SG</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='12887380'>
+            <firstName>Matthias</firstName>
+            <lastName>von Wackerbarth</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>25</age>
+            <height>76</height>
+            <dmi>23100</dmi>
+            
+            
+            <salary>6171</salary>
+            <bestPosition>SG</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='13534027'>
+            <firstName>Rumen</firstName>
+            <lastName>Marinov</lastName>
+            <nationality id='36'>Bulgaria</nationality>
+            <age>22</age>
+            <height>78</height>
+            <dmi>61300</dmi>
+            
+            
+            <salary>8185</salary>
+            <bestPosition>SF</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='14721713'>
+            <firstName>Erik</firstName>
+            <lastName>Staltmeier</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>21</age>
+            <height>79</height>
+            <dmi>126500</dmi>
+            
+            
+            <salary>8604</salary>
+            <bestPosition>PF</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='14747973'>
+            <firstName>Giuseppino</firstName>
+            <lastName>Conterio</lastName>
+            <nationality id='10'>Italia</nationality>
+            <age>22</age>
+            <height>76</height>
+            <dmi>25400</dmi>
+            
+            
+            <salary>5653</salary>
+            <bestPosition>PG</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='16581609'>
+            <firstName>Sven</firstName>
+            <lastName>Marwitz</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>21</age>
+            <height>80</height>
+            <dmi>14500</dmi>
+            
+            
+            <salary>4349</salary>
+            <bestPosition>PG</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='17149377'>
+            <firstName>Richard</firstName>
+            <lastName>Pejchal</lastName>
+            <nationality id='37'>Česká Rep.</nationality>
+            <age>22</age>
+            <height>74</height>
+            <dmi>70200</dmi>
+            
+            
+            <salary>10368</salary>
+            <bestPosition>SG</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+        <player id='19413305'>
+            <firstName>Maik</firstName>
+            <lastName>Dürschlag</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>18</age>
+            <height>76</height>
+            <dmi>16800</dmi>
+            
+            
+            <salary>4846</salary>
+            <bestPosition>C</bestPosition>
+            <skills>
+                <gameShape>9</gameShape>
+                <potential>9</potential>
+                
+                <jumpShot>9</jumpShot>
+                <range>9</range>
+                <outsideDef>9</outsideDef>
+                <handling>9</handling>
+                <driving>9</driving>
+                <passing>9</passing>
+                <insideShot>9</insideShot>
+                <insideDef>9</insideDef>
+                <rebound>9</rebound>
+                <block>9</block>
+                <stamina>9</stamina>
+                <freeThrow>9</freeThrow>
+                <experience>9</experience>
+                
+            </skills>
+        </player>
+    </roster>
+</bbapi>

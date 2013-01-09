@@ -1,0 +1,322 @@
+HTTP/1.1 200 OK
+Date: Tue, 07 Jun 2011 17:21:44 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 9840
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <roster teamid='12345' retrieved='2011-06-07T17:21:44Z'>
+        <player id='10918898'>
+            <firstName>Senjanin</firstName>
+            <lastName>Sakić</lastName>
+            <nationality id='29'>Srbija</nationality>
+            <age>25</age>
+            <height>84</height>
+            <dmi>38200</dmi>
+            
+            
+            <salary>5427</salary>
+            <bestPosition>C</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>6</potential>
+                
+            </skills>
+        </player>
+        <player id='17446561'>
+            <firstName>Igor</firstName>
+            <lastName>Sušić</lastName>
+            <nationality id='29'>Srbija</nationality>
+            <age>22</age>
+            <height>77</height>
+            <dmi>20100</dmi>
+            
+            
+            <salary>5850</salary>
+            <bestPosition>SF</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>7</potential>
+                
+            </skills>
+        </player>
+        <player id='17717364'>
+            <firstName>Hermann-Franz</firstName>
+            <lastName>Halter</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>28</age>
+            <height>85</height>
+            <dmi>3300</dmi>
+            
+            
+            <salary>2149</salary>
+            <bestPosition>C</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>4</potential>
+                
+            </skills>
+        </player>
+        <player id='17717365'>
+            <firstName>Joern</firstName>
+            <lastName>Obeth</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>22</age>
+            <height>77</height>
+            <dmi>29100</dmi>
+            
+            
+            <salary>3176</salary>
+            <bestPosition>PF</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>6</potential>
+                
+            </skills>
+        </player>
+        <player id='17717366'>
+            <firstName>Olli</firstName>
+            <lastName>Ungar-Huber</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>34</age>
+            <height>81</height>
+            <dmi>11500</dmi>
+            
+            
+            <salary>2971</salary>
+            <bestPosition>C</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>5</potential>
+                
+            </skills>
+        </player>
+        <player id='17717367'>
+            <firstName>Raiko</firstName>
+            <lastName>Kulmitzer</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>21</age>
+            <height>71</height>
+            <dmi>6900</dmi>
+            
+            
+            <salary>2578</salary>
+            <bestPosition>SG</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>5</potential>
+                
+            </skills>
+        </player>
+        <player id='17717369'>
+            <firstName>Alexander</firstName>
+            <lastName>Olbort</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>21</age>
+            <height>77</height>
+            <dmi>2300</dmi>
+            
+            
+            <salary>1363</salary>
+            <bestPosition>SF</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>2</potential>
+                
+            </skills>
+        </player>
+        <player id='17717372'>
+            <firstName>Nils</firstName>
+            <lastName>Hartz</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>34</age>
+            <height>74</height>
+            <dmi>3700</dmi>
+            
+            
+            <salary>1867</salary>
+            <bestPosition>PG</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>5</potential>
+                
+            </skills>
+        </player>
+        <player id='17717373'>
+            <firstName>Ulrich</firstName>
+            <lastName>Höretzeder</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>34</age>
+            <height>77</height>
+            <dmi>3500</dmi>
+            
+            
+            <salary>2434</salary>
+            <bestPosition>C</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>4</potential>
+                
+            </skills>
+        </player>
+        <player id='17717375'>
+            <firstName>Emil</firstName>
+            <lastName>Poncet</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>21</age>
+            <height>74</height>
+            <dmi>36000</dmi>
+            
+            
+            <salary>3277</salary>
+            <bestPosition>SG</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>1</potential>
+                
+            </skills>
+        </player>
+        <player id='17717377'>
+            <firstName>Nisse</firstName>
+            <lastName>Hachel</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>23</age>
+            <height>83</height>
+            <dmi>3900</dmi>
+            
+            
+            <salary>2227</salary>
+            <bestPosition>PF</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>5</potential>
+                
+            </skills>
+        </player>
+        <player id='17717378'>
+            <firstName>Stephan</firstName>
+            <lastName>Schilhawy</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>32</age>
+            <height>71</height>
+            <dmi>9400</dmi>
+            
+            
+            <salary>3561</salary>
+            <bestPosition>PG</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>6</potential>
+                
+            </skills>
+        </player>
+        <player id='17898955'>
+            <firstName>Moisis</firstName>
+            <lastName>Rentis</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>20</age>
+            <height>72</height>
+            <dmi>2700</dmi>
+            
+            
+            <salary>1619</salary>
+            <bestPosition>PG</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>7</potential>
+                
+            </skills>
+        </player>
+        <player id='17898964'>
+            <firstName>Merlin</firstName>
+            <lastName>Altrichter</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>19</age>
+            <height>73</height>
+            <dmi>3200</dmi>
+            
+            
+            <salary>1756</salary>
+            <bestPosition>PG</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>1</potential>
+                
+            </skills>
+        </player>
+        <player id='17898967'>
+            <firstName>Stefan</firstName>
+            <lastName>Gregory</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>20</age>
+            <height>82</height>
+            <dmi>2900</dmi>
+            
+            
+            <salary>1945</salary>
+            <bestPosition>PG</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>3</potential>
+                
+            </skills>
+        </player>
+        <player id='19414108'>
+            <firstName>Matteo</firstName>
+            <lastName>Cavallari</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>18</age>
+            <height>78</height>
+            <dmi>0</dmi>
+            
+            
+            <salary>2272</salary>
+            <bestPosition>PG</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>4</potential>
+                
+            </skills>
+        </player>
+        <player id='19414132'>
+            <firstName>Alwin</firstName>
+            <lastName>Esenwein</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>19</age>
+            <height>82</height>
+            <dmi>0</dmi>
+            
+            
+            <salary>3167</salary>
+            <bestPosition>PF</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>3</potential>
+                
+            </skills>
+        </player>
+        <player id='19414135'>
+            <firstName>Folke</firstName>
+            <lastName>Ohligs</lastName>
+            <nationality id='8'>Deutschland</nationality>
+            <age>18</age>
+            <height>78</height>
+            <dmi>0</dmi>
+            
+            
+            <salary>4473</salary>
+            <bestPosition>C</bestPosition>
+            <skills>
+                <gameShape>7</gameShape>
+                <potential>6</potential>
+                
+            </skills>
+        </player>
+    </roster>
+</bbapi>

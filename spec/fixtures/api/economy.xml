@@ -1,0 +1,61 @@
+HTTP/1.1 200 OK
+Date: Mon, 01 Aug 2011 23:26:51 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Set-Cookie: .ASPXAUTH=76638E311AAF384C9B1187B17C7896CA3FAB0DFD5941AF5C8286814E53696CC5755549BAE333F8CDB5A0680D42E81A25C60F353192C9B4787E6C46885BC8A3780E41D51C919164236D021254E063F2EA3360B881DDA5FCEEF8E35EA3C7DDE6E3CB42F1A030926BF373BBB349777438BFE218E3FB; path=/; HttpOnly
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/xml; charset=utf-8
+Content-Length: 2073
+
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <economy retrieved='2011-08-01T23:26:51Z'>
+        <lastWeek start='2011-07-25T01:00:05Z'>
+            <initial>327986</initial>
+            
+                <playerSalaries date='2011-07-25T01:00:05Z'>-105172</playerSalaries>
+            
+                <staffSalaries date='2011-07-25T01:00:13Z'>-45351</staffSalaries>
+            
+                <scouting date='2011-07-25T01:00:15Z'>-10000</scouting>
+            
+                <interest date='2011-07-25T01:00:16Z'>0</interest>
+            
+                <merchandise date='2011-07-25T01:00:21Z'>25380</merchandise>
+            
+                <tvMoney date='2011-07-25T01:00:22Z'>64866</tvMoney>
+            
+                <promotionBonus date='2011-07-25T13:20:35Z'>300000</promotionBonus>
+            
+                <matchRevenue matchid='38849429' date='2011-07-28T17:16:57Z'>0</matchRevenue>
+            
+                <transfer playerid='19413305' date='2011-07-29T13:38:14Z'>97000</transfer>
+            
+                <transfer playerid='12266395' date='2011-07-30T13:09:25Z'>-469000</transfer>
+            
+                <matchRevenue matchid='36215201' date='2011-07-30T16:47:28Z'>180450</matchRevenue>
+            
+            <final>366159</final>
+        </lastWeek>
+        <thisWeek start='2011-08-01T01:35:20Z'>
+            <initial>366159</initial>
+            
+                <playerSalaries date='2011-08-01T01:35:20Z'>-156412</playerSalaries>
+            
+                <staffSalaries date='2011-08-01T01:35:43Z'>-46084</staffSalaries>
+            
+                <scouting date='2011-08-01T01:35:45Z'>-10000</scouting>
+            
+                <interest date='2011-08-01T01:35:46Z'>0</interest>
+            
+                <merchandise date='2011-08-01T01:35:52Z'>32910</merchandise>
+            
+                <tvMoney date='2011-08-01T01:35:53Z'>91013</tvMoney>
+            
+            <current>277586</current>
+        </thisWeek>
+    </economy>
+</bbapi>
