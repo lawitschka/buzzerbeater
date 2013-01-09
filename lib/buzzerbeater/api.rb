@@ -1,10 +1,15 @@
+require 'active_support/core_ext/object/blank'
+require 'active_support/core_ext/hash/reverse_merge'
 require 'httparty'
+
+require 'buzzerbeater/api/authentication'
 
 # Buzzerbeater API wrapper class
 #
 # @author  Moritz Lawitschka <moritz@urbanvention.com>
 class Buzzerbeater::API
   include HTTParty
+  include Authentication
 
   # HTTParty configuration
   base_uri 'bbapi.buzzerbeater.com'
@@ -38,5 +43,34 @@ class Buzzerbeater::API
   def initialize(session_id = nil, auth_token = nil)
     @session_id, @auth_token = session_id, auth_token
   end
+
+
+
+  private
+
+    # Parses the given XML document and returns an instance of XML::Document
+    # for further processing.
+    #
+    # @api private
+    #
+    # @param [String] text the text to be URI encoded
+    #
+    # @return [String] the text as URI encoded copy
+    def uri_encode(text)
+      URI.escape(text, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
+    end
+
+    # Retrieves the specfied cookie's value.
+    #
+    # @api private
+    #
+    # @param [HTTParty::Response] response the request's response including headers
+    # @param [String] cookie_name the cookie's name to be retrieved
+    #
+    # @return [String] the cookie value
+    def retrieve_cookie(response, cookie_name)
+      value = response.headers['set-cookie'].scan(/#{cookie_name}=[a-zA-Z0-9]+/).first
+      value = value[cookie_name.length+1..-1] if value
+    end
 
 end
