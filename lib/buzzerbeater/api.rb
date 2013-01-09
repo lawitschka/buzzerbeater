@@ -35,7 +35,7 @@ class Buzzerbeater::API
   # @param [String] auth_token the authentication token returned by the login method (optional)
   #
   # @return [Buzzerbeater::API] the API object.
-  def initialize(session_id, auth_token)
+  def initialize(session_id = nil, auth_token = nil)
     @session_id, @auth_token = session_id, auth_token
   end
 
