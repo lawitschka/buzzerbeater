@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/lawitschka/buzzerbeater.png?branch=master)](https://travis-ci.org/lawitschka/buzzerbeater)
 [![Coverage Status](https://coveralls.io/repos/lawitschka/buzzerbeater/badge.png?branch=master)](https://coveralls.io/r/lawitschka/buzzerbeater?branch=master)
+[![Dependency Status](https://gemnasium.com/lawitschka/buzzerbeater.png)](https://gemnasium.com/lawitschka/buzzerbeater)
 [![Code Climate](https://codeclimate.com/github/lawitschka/buzzerbeater.png)](https://codeclimate.com/github/lawitschka/buzzerbeater)
 
 API adapter for the world's largest basketball manager game Buzzerbeater.
