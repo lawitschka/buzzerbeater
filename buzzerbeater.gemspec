@@ -22,6 +22,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'guard-rspec', '~> 3.0.0'
   gem.add_development_dependency 'vcr',         '~> 2.5.0'
   gem.add_development_dependency 'webmock',     '~> 1.11.0'
+  gem.add_development_dependency 'rake',        '~> 10.1.0'
 
   gem.add_runtime_dependency 'activesupport', '>= 3.0.0'
   gem.add_runtime_dependency 'httparty',      '~> 0.11.0'
