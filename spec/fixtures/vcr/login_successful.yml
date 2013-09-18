@@ -1,0 +1,43 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://bbapi.buzzerbeater.com/login.aspx?code=auth_token&login=login
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 18 Sep 2013 09:37:29 GMT
+      Server:
+      - Microsoft-IIS/6.0
+      X-Powered-By:
+      - ASP.NET
+      X-Aspnet-Version:
+      - 2.0.50727
+      Set-Cookie:
+      - .ASPXAUTH=5A72C708E8F03359EC400F7D4CC903EF5FB7601E6EB0DEE4A3D7307B6FAD6E17985FF29BC402E341E1A6317B62B91643EDFC7B989FD4EEE2734282785470AF1DABB51C67EA89C57980982D4B459A9283DEDE2F611EFA0D186AEA0E1DA15726CF13A9047BC05734CB0D6766CDD75811C8E1DCC694;
+        path=/; HttpOnly
+      - ASP.NET_SessionId=fxtxzr55zfugfr45fa5wnx55; path=/; HttpOnly
+      Cache-Control:
+      - no-cache
+      Pragma:
+      - no-cache
+      Expires:
+      - '-1'
+      Content-Type:
+      - text/xml; charset=utf-8
+      Content-Length:
+      - '106'
+    body:
+      encoding: UTF-8
+      string: "<?xml version='1.0' encoding='utf-8'?>\r\n<bbapi version='1'>\r\n\r\n
+        \       <loggedIn/>\r\n    \r\n    \r\n\r\n</bbapi>"
+    http_version:
+  recorded_at: Wed, 18 Sep 2013 09:37:28 GMT
+recorded_with: VCR 2.5.0
