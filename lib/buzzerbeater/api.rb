@@ -6,7 +6,7 @@ require 'buzzerbeater/api/authentication'
 
 # Buzzerbeater API wrapper class
 #
-# @author  Moritz Lawitschka <moritz@urbanvention.com>
+# @author  Moritz Lawitschka <me@moritzlawitschka.de>
 class Buzzerbeater::API
   include HTTParty
   include Authentication
