@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.name          = "buzzerbeater"
   gem.version       = Buzzerbeater::VERSION
   gem.authors       = ["Moritz Lawitschka"]
-  gem.email         = ["moritz@urbanvention.com"]
+  gem.email         = ["me@moritzlawitschka.de"]
   gem.description   = %q{Ruby Gem for the Buzzerbeater API.}
   gem.summary       = %q{API adapter for the world's largest basketball manager game Buzzerbeater.}
   gem.homepage      = ""
@@ -17,12 +17,12 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
-  gem.add_development_dependency 'rspec',       '~> 2.12.0'
-  gem.add_development_dependency 'guard',       '~> 1.6.1'
-  gem.add_development_dependency 'guard-rspec', '~> 2.3.3'
-  gem.add_development_dependency 'rb-fsevent',  '~> 0.9.3'
-  gem.add_development_dependency 'fakeweb',     '~> 1.3.0'
+  gem.add_development_dependency 'rspec',       '~> 2.14.0'
+  gem.add_development_dependency 'guard',       '~> 1.8.0'
+  gem.add_development_dependency 'guard-rspec', '~> 3.0.0'
+  gem.add_development_dependency 'vcr',         '~> 2.5.0'
+  gem.add_development_dependency 'webmock',     '~> 1.13.0'
 
-  gem.add_runtime_dependency 'activesupport', '~> 3.2.11'
-  gem.add_runtime_dependency 'httparty',      '~> 0.9.0'
+  gem.add_runtime_dependency 'activesupport', '>= 3.0.0'
+  gem.add_runtime_dependency 'httparty',      '~> 0.11.0'
 end
