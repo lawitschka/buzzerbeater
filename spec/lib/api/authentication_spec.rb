@@ -38,7 +38,7 @@ describe Authentication do
   end
 
   describe 'Logout method' do
-    let(:api) { api = Buzzerbeater::API.new(buzzerbeater_session_id, buzzerbeater_auth_token) }
+    let(:api) { api = Buzzerbeater::API.new }
 
     it 'should exist' do
       api.should respond_to :logout
@@ -46,6 +46,7 @@ describe Authentication do
 
     it 'should return true for successful logout' do
       VCR.use_cassette('logout.successful') do
+        api.login('login', 'auth_token')
         api.logout.should be_true
       end
     end
