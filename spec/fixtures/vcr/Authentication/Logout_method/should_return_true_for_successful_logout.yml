@@ -1,0 +1,82 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://bbapi.buzzerbeater.com/login.aspx?code=auth_token&login=wellness
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 30 Sep 2013 08:52:24 GMT
+      Server:
+      - Microsoft-IIS/6.0
+      X-Powered-By:
+      - ASP.NET
+      X-Aspnet-Version:
+      - 2.0.50727
+      Set-Cookie:
+      - .ASPXAUTH=DCBD5D72F8A691141280EBD1FA32E9013A78C43CB9B34C86D0B9713CFC2924225F3496A9C05411287DD788DD84B57532C111E2C13511EBDBB6FCDACD3BCD99CF28B52EF158185792155A7DF7946CAEF1017D4E11F47013E46C9DB927E7208BF48756767065A5EB26CFF0CB16D87C76F8A93EAC00;
+        path=/; HttpOnly
+      - ASP.NET_SessionId=mxl4my55jpf1pefz5qxw1255; path=/; HttpOnly
+      Cache-Control:
+      - no-cache
+      Pragma:
+      - no-cache
+      Expires:
+      - '-1'
+      Content-Type:
+      - text/xml; charset=utf-8
+      Content-Length:
+      - '106'
+    body:
+      encoding: UTF-8
+      string: "<?xml version='1.0' encoding='utf-8'?>\r\n<bbapi version='1'>\r\n\r\n
+        \       <loggedIn/>\r\n    \r\n    \r\n\r\n</bbapi>"
+    http_version:
+  recorded_at: Mon, 30 Sep 2013 08:52:34 GMT
+- request:
+    method: get
+    uri: http://bbapi.buzzerbeater.com/logout.aspx
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Cookie:
+      - ASP.NET_SessionId=mxl4my55jpf1pefz5qxw1255;.ASPXAUTH=DCBD5D72F8A691141280EBD1FA32E9013A78C43CB9B34C86D0B9713CFC2924225F3496A9C05411287DD788DD84B57532C111E2C13511EBDBB6FCDACD3BCD99CF28B52EF158185792155A7DF7946CAEF1017D4E11F47013E46C9DB927E7208BF48756767065A5EB26CFF0CB16D87C76F8A93EAC00
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 30 Sep 2013 08:52:24 GMT
+      Server:
+      - Microsoft-IIS/6.0
+      X-Powered-By:
+      - ASP.NET
+      X-Aspnet-Version:
+      - 2.0.50727
+      Set-Cookie:
+      - .ASPXAUTH=; expires=Tue, 12-Oct-1999 04:00:00 GMT; path=/; HttpOnly
+      Cache-Control:
+      - no-cache
+      Pragma:
+      - no-cache
+      Expires:
+      - '-1'
+      Content-Type:
+      - text/xml; charset=utf-8
+      Content-Length:
+      - '87'
+    body:
+      encoding: UTF-8
+      string: "<?xml version='1.0' encoding='utf-8'?>\r\n<bbapi version='1'>\r\n    <loggedOut/>\r\n</bbapi>"
+    http_version:
+  recorded_at: Mon, 30 Sep 2013 08:52:34 GMT
+recorded_with: VCR 2.5.0

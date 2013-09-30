@@ -9,25 +9,19 @@ describe Authentication do
       api.should respond_to :login
     end
 
-    it 'should return a true for a successful login' do
-      VCR.use_cassette('login.successful') do
-        api.login('login', 'auth_token').should be_true
-      end
+    it 'should return a true for a successful login', :vcr do
+      api.login('wellness', 'auth_token').should be_true
     end
 
-    it 'should return false for an unsuccessful login' do
-      VCR.use_cassette('login.invalid_credentials') do
-        api.login('login', 'wrong').should be_false
-      end
+    it 'should return false for an unsuccessful login', :vcr do
+      api.login('wellness', 'wrong').should be_false
     end
 
-    it 'should set the session ID and authentication token after login' do
+    it 'should set the session ID and authentication token after login', :vcr do
       api.session_id.should be_nil
       api.auth_token.should be_nil
 
-      VCR.use_cassette('login.successful') do
-        api.login('login', 'auth_token')
-      end
+      api.login('wellness', 'auth_token')
 
       api.session_id.should_not be_nil
       api.auth_token.should_not be_nil
@@ -44,11 +38,9 @@ describe Authentication do
       api.should respond_to :logout
     end
 
-    it 'should return true for successful logout' do
-      VCR.use_cassette('logout.successful') do
-        api.login('login', 'auth_token')
-        api.logout.should be_true
-      end
+    it 'should return true for successful logout', :vcr do
+      api.login('wellness', 'auth_token')
+      api.logout.should be_true
     end
 
   end

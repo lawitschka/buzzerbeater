@@ -11,6 +11,13 @@ require 'vcr'
 # in spec/support/ and its subdirectories.
 Dir["./spec/support/**/*.rb"].sort.each { |f| require f }
 
+# VCR config
+VCR.configure do |c|
+  c.cassette_library_dir = 'spec/fixtures/vcr'
+  c.hook_into :webmock
+  c.configure_rspec_metadata!
+end
+
 RSpec.configure do |config|
   config.treat_symbols_as_metadata_keys_with_true_values = true
   config.run_all_when_everything_filtered = true
@@ -21,10 +28,4 @@ RSpec.configure do |config|
   # the seed, which is printed after each run.
   #     --seed 1234
   config.order = 'random'
-end
-
-# VCR config
-VCR.configure do |c|
-  c.cassette_library_dir = 'spec/fixtures/vcr'
-  c.hook_into :webmock
 end

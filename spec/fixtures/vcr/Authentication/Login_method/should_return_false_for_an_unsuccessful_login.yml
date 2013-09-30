@@ -1,0 +1,42 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://bbapi.buzzerbeater.com/login.aspx?code=wrong&login=wellness
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 30 Sep 2013 08:52:24 GMT
+      Server:
+      - Microsoft-IIS/6.0
+      X-Powered-By:
+      - ASP.NET
+      X-Aspnet-Version:
+      - 2.0.50727
+      Set-Cookie:
+      - .ASPXAUTH=; expires=Tue, 12-Oct-1999 04:00:00 GMT; path=/; HttpOnly
+      - ASP.NET_SessionId=wahcrj45i4jlxlmq2frqqh45; path=/; HttpOnly
+      Cache-Control:
+      - no-cache
+      Pragma:
+      - no-cache
+      Expires:
+      - '-1'
+      Content-Type:
+      - text/xml; charset=utf-8
+      Content-Length:
+      - '111'
+    body:
+      encoding: UTF-8
+      string: "<?xml version='1.0' encoding='utf-8'?>\r\n<bbapi version='1'>\r\n\r\n
+        \   <error message=\"NotAuthorized\"/>\r\n\r\n</bbapi>"
+    http_version: 
+  recorded_at: Mon, 30 Sep 2013 08:52:33 GMT
+recorded_with: VCR 2.5.0
