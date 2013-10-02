@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Authentication do
+describe Buzzerbeater::API::Authentication do
 
   describe 'Login method' do
     let(:api) { api = Buzzerbeater::API.new }

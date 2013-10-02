@@ -1,4 +1,4 @@
-module Authentication
+module Buzzerbeater::API::Authentication
 
   # Cookie name for Buzzerbeater's session key
   SESSION_ID_COOKIE = "ASP.NET_SessionId"

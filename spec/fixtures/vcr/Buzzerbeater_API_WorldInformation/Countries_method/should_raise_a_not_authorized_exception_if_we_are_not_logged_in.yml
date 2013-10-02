@@ -1,0 +1,80 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://bbapi.buzzerbeater.com/countries.aspx
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Cookie:
+      - ASP.NET_SessionId=;.ASPXAUTH=
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Date:
+      - Tue, 01 Oct 2013 10:38:32 GMT
+      Server:
+      - Microsoft-IIS/6.0
+      X-Powered-By:
+      - ASP.NET
+      X-Aspnet-Version:
+      - 2.0.50727
+      Location:
+      - /login.aspx?ReturnUrl=%2fcountries.aspx
+      Cache-Control:
+      - private
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Length:
+      - '164'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"%2flogin.aspx%3fReturnUrl%3d%252fcountries.aspx\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Tue, 01 Oct 2013 10:38:47 GMT
+- request:
+    method: get
+    uri: http://bbapi.buzzerbeater.com/login.aspx?ReturnUrl=/countries.aspx
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Cookie:
+      - ASP.NET_SessionId=;.ASPXAUTH=
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 01 Oct 2013 10:38:33 GMT
+      Server:
+      - Microsoft-IIS/6.0
+      X-Powered-By:
+      - ASP.NET
+      X-Aspnet-Version:
+      - 2.0.50727
+      Set-Cookie:
+      - .ASPXAUTH=; expires=Tue, 12-Oct-1999 04:00:00 GMT; path=/; HttpOnly
+      - ASP.NET_SessionId=f0vc1bz1leuk0zjccmg1cjix; path=/; HttpOnly
+      Cache-Control:
+      - no-cache
+      Pragma:
+      - no-cache
+      Expires:
+      - '-1'
+      Content-Type:
+      - text/xml; charset=utf-8
+      Content-Length:
+      - '111'
+    body:
+      encoding: UTF-8
+      string: "<?xml version='1.0' encoding='utf-8'?>\r\n<bbapi version='1'>\r\n\r\n
+        \   <error message=\"NotAuthorized\"/>\r\n\r\n</bbapi>"
+    http_version: 
+  recorded_at: Tue, 01 Oct 2013 10:38:47 GMT
+recorded_with: VCR 2.5.0

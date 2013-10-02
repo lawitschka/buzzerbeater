@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: http://bbapi.buzzerbeater.com/login.aspx?code=wrong&login=wellness
+    uri: http://bbapi.buzzerbeater.com/login.aspx?code=auth_token&login=wellness
     body:
       encoding: US-ASCII
       string: ''
@@ -13,7 +13,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Mon, 30 Sep 2013 08:52:24 GMT
+      - Tue, 01 Oct 2013 10:38:30 GMT
       Server:
       - Microsoft-IIS/6.0
       X-Powered-By:
@@ -21,8 +21,9 @@ http_interactions:
       X-Aspnet-Version:
       - 2.0.50727
       Set-Cookie:
-      - .ASPXAUTH=; expires=Tue, 12-Oct-1999 04:00:00 GMT; path=/; HttpOnly
-      - ASP.NET_SessionId=wahcrj45i4jlxlmq2frqqh45; path=/; HttpOnly
+      - .ASPXAUTH=66D2973FC89C55F9F607ACA71F573687441D71178BD32D08DAD521350E235A9EFB70B49C7FBE6DA03409DA95B2BD1C6BB566C12A7C940016A7E545009E8E0D2E70A16033DC535E1A2B038341D705AF076F59D6EF060C87254EE13EB23FF800048FC3B4F4F1D17A02277F036AD230FEE6A8E07BFA;
+        path=/; HttpOnly
+      - ASP.NET_SessionId=gsuwpzrr5a5aor45msxudtrl; path=/; HttpOnly
       Cache-Control:
       - no-cache
       Pragma:
@@ -32,11 +33,11 @@ http_interactions:
       Content-Type:
       - text/xml; charset=utf-8
       Content-Length:
-      - '111'
+      - '106'
     body:
       encoding: UTF-8
       string: "<?xml version='1.0' encoding='utf-8'?>\r\n<bbapi version='1'>\r\n\r\n
-        \   <error message=\"NotAuthorized\"/>\r\n\r\n</bbapi>"
+        \       <loggedIn/>\r\n    \r\n    \r\n\r\n</bbapi>"
     http_version: 
-  recorded_at: Mon, 30 Sep 2013 08:52:33 GMT
+  recorded_at: Tue, 01 Oct 2013 10:38:45 GMT
 recorded_with: VCR 2.5.0
