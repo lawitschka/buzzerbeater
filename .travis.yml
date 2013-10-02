@@ -4,6 +4,7 @@ rvm:
   - "2.0.0"
   - jruby-19mode # JRuby in 1.9 mode
 notifications:
+  flowdock: 1f9d79343d4736940d900dbefeecaeb9
   email:
     recipients:
       - me@moritzlawitschka.de
