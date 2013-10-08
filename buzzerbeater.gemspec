@@ -17,13 +17,17 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
-  gem.add_development_dependency 'rspec',       '~> 2.14.0'
-  gem.add_development_dependency 'guard',       '~> 1.8.0'
-  gem.add_development_dependency 'guard-rspec', '~> 3.0.0'
-  gem.add_development_dependency 'vcr',         '~> 2.5.0'
-  gem.add_development_dependency 'webmock',     '~> 1.11.0'
-  gem.add_development_dependency 'rake',        '~> 10.1.0'
-  gem.add_development_dependency 'coveralls',   '~> 0.6.9'
+  gem.add_development_dependency 'coveralls',     '~> 0.6.9'
+  gem.add_development_dependency 'factory_girl',  '~> 4.2.0'
+  gem.add_development_dependency 'guard',         '~> 1.8.0'
+  gem.add_development_dependency 'guard-rspec',   '~> 3.0.0'
+  gem.add_development_dependency 'guard-yard',    '~> 2.1.0'
+  gem.add_development_dependency 'rake',          '~> 10.1.0'
+  gem.add_development_dependency 'redcarpet',     '~> 3.0.0'
+  gem.add_development_dependency 'rspec',         '~> 2.14.0'
+  gem.add_development_dependency 'vcr',           '~> 2.5.0'
+  gem.add_development_dependency 'webmock',       '~> 1.11.0'
+  gem.add_development_dependency 'yard',          '~> 0.8.7.2'
 
   gem.add_runtime_dependency 'activesupport', '>= 3.0.0'
   gem.add_runtime_dependency 'httparty',      '~> 0.11.0'
